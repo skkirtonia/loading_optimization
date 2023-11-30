@@ -1,0 +1,18 @@
+4 cars:
+Type 3 car can not be assigned to exit and innermost second level slot
+
+6 cars:
+Type 3 car can not be assigned to exit and innermost second level slot
+Type 2 car can not be assigned to innermost second level slot
+If T2 or T3 is in slot 2, slot 3 can not hold T3. Similarly, If T2 or T3 is in slot 3, slot 2 can not hold T3
+
+---------------------------
+8 cars:
+Type 3 and 2 car can not be assigned to exit and innermost slot
+If T2 or T3 is in slot 1, slot 2 can not hold T3. Similarly, If T2 or T3 is in slot 2, slot 1 can not hold T3
+
+If T2 or T3 is in slot 2, slot 3 can not hold T3. Similarly, If T2 or T3 is in slot 3, slot 2 can not hold T3
+
+If T2 or T3 is in slot 5, slot 6 can not hold T3. Similarly, If T2 or T3 is in slot 6, slot 5 can not hold T3
+
+
